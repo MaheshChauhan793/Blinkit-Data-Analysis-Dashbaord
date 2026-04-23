@@ -67,4 +67,5 @@ This dashboard can help:
 📈 Management → Make data-driven expansion decisions
 
 Dashboard Preview
-<img width="1233" height="713" alt="image" src="https://github.com/user-attachments/assets/0a999ad8-489c-41df-a91f-3420dc928933" />
+<img width="1073" height="621" alt="image" src="https://github.com/user-attachments/assets/cf403c05-614e-42a6-a6fb-92b9b7a1c6e0" />
+
