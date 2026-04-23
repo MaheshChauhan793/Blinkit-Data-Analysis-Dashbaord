@@ -1,1 +1,70 @@
 # Blinkit-Data-Analysis-Dashbaord
+
+🚀 Key Features
+💰 Sales Performance
+Total Sales: $1.20M
+Average Sales: $141
+Number of Items: 8,523
+Average Rating: ⭐ 4
+
+
+🏪 Outlet Analysis
+Sales distribution across:
+Grocery Stores
+Supermarkets (Type 1, 2, 3)
+Tier-wise performance:
+Tier 3 → Highest sales (~472K)
+Tier 2 → ~393K
+Tier 1 → ~336K
+
+
+📈 Trends & Growth
+Sales trend based on outlet establishment year
+Peak observed around $205K sales period
+Helps track business expansion over time
+
+
+🍔 Product Insights
+Top-performing categories:
+Fruits & Vegetables
+Snack Foods
+Household Items
+Lower-performing categories:
+Seafood
+Breakfast
+Fat content distribution:
+Regular vs Low Fat product sales
+
+
+📦 Outlet Size Analysis
+Medium-size outlets contribute the highest sales
+Followed by small and high-size outlets
+📍 Filters & Interactivity
+Outlet Location Type
+Outlet Size
+Item Type
+Dynamic KPI switching (Sales, Avg Sales, Ratings, Items)
+
+
+🧠 Insights Derived
+Tier 3 cities generate the highest revenue → strong growth opportunity
+Supermarket Type 1 dominates in both sales and item count
+Consumer demand is highest for daily essentials (fruits, snacks)
+Medium-sized outlets are the most efficient
+
+
+🛠️ Tools & Technologies
+📊 Power BI
+📂 Excel / CSV
+📈 DAX (for calculations & KPIs)
+
+🎯 Business Use Case
+
+This dashboard can help:
+
+📊 Business Analysts → Understand sales patterns
+🏪 Operations Teams → Optimize outlet performance
+📈 Management → Make data-driven expansion decisions
+
+Dashboard Preview
+<img width="1233" height="713" alt="image" src="https://github.com/user-attachments/assets/0a999ad8-489c-41df-a91f-3420dc928933" />
