@@ -1,5 +1,12 @@
 # Blinkit-Data-Analysis-Dashbaord
 
+
+📊 Overview
+
+This project showcases a Sales & Outlet Performance Dashboard for Blinkit (India’s last-minute delivery app), built using Power BI.
+
+It provides deep insights into sales trends, outlet performance, product categories, and customer preferences, helping businesses optimize operations and maximize revenue.
+
 🚀 Key Features
 💰 Sales Performance
 Total Sales: $1.20M
